@@ -1,4 +1,4 @@
-module github.com/TheGreaterHeptavirate/ConstiTutor
+module github.com/gucio321/ConstiTutor
 
 go 1.19
 
